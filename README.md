@@ -4,5 +4,4 @@
 <h1 align="center" style="margin-top: 0px;">ZyeLang Profile</h1>
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=zyelangx&style=for-the-badge)
-</div>
+[![](https://komarev.com/ghpvc/?username=zyelangx&style=for-the-badge)]
